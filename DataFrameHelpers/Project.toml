@@ -1,0 +1,4 @@
+name = "DataFrameHelpers"
+uuid = "325d3104-d46e-456e-affd-b7824d9ba777"
+authors = ["DanielRussell-Brain <dan.russellbrain@advisory.kbrwyle.co.uk>"]
+version = "0.1.0"
